@@ -4,7 +4,9 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
-@Getter @Setter @ToString
+@Getter
+@Setter
+@ToString
 public class Culture {
     private String category;
     private String k_name;
