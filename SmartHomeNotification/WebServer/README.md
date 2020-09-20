@@ -13,7 +13,7 @@
 - Back-End: **Spring 5.0.7.RELEASE** (Lombok 1.18.0, HikariCP 2.7.8, Mybatis 3.4.6, jackson 2.9.5, quartz 2.3.0, httpclient 4.4), **Java 1.8(jdk1.8.0_202)**
 
 ## 3. 라이선스
-- This project is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0), also included in our repository in [the LICENSE file](/Contest/SmartHomeNotification/LICENSE).
+- This project is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0), also included in our repository in [the LICENSE file](https://github.com/khw5123/Contest/blob/master/SmartHomeNotification/LICENSE).
 
 ## 4. 사용 시나리오
 ### 4-1. 일기 예보
