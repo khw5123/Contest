@@ -4,7 +4,7 @@
 - 할 일 예약, 이미지 인식 횟수 등을 서버의 DB에 저장하고, 일기예보나 TTS의 메시지 부분을 라즈베리 파이로 보냅니다. `현재 보안상 보안 카메라 스트리밍은 실행하지 않고 있습니다.`
 
 ## 1. 시스템 구조
-![Web Server Architecture](https://github.com/khw5123/Contest/tree/master/SmartHomeNotification/resources/image/webserverArchitecture.jpg)
+![Web Server Architecture](/Contest/tree/master/SmartHomeNotification/resources/image/webserverArchitecture.jpg)
 
 ## 2. 사용 환경
 - Server: Naver Cloud platform, CentOS 7.2 (64-bit), Apache-tomcat-8.5.43
