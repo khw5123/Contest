@@ -20,7 +20,7 @@
     <img src="/resources/image/Architecture.png", width="640">
 </p>
 
-- [라즈베리 파이](https://github.com/khw5123/Study/tree/master/Contest/SmartHomeNotification/RaspberryPi) 및 [카카오톡](https://github.com/khw5123/Study/tree/master/Contest/SmartHomeNotification/KakaoTalk)에 대한 구체적인 설명
+- [라즈베리 파이](https://github.com/khw5123/Contest/tree/master/SmartHomeNotification/RaspberryPi) 및 [카카오톡](https://github.com/khw5123/Contest/tree/master/SmartHomeNotification/KakaoTalk)에 대한 구체적인 설명
 - [웹 스트리밍](https://github.com/khw5123/Study/tree/master/Contest/SmartHomeNotification/WebStreaming) 및 [이미지 인식](https://github.com/khw5123/Study/tree/master/Contest/SmartHomeNotification/FaceRecognition)에 대한 구체적인 설명
 - [서버 및 웹](https://github.com/khw5123/Study/tree/master/Contest/SmartHomeNotification/WebServer)에 대한 구체적인 설명
 - [아두이노](https://github.com/khw5123/Study/tree/master/Contest/SmartHomeNotification/Arduino)에 대한 구체적인 설명
